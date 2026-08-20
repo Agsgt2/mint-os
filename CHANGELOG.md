@@ -1,3 +1,12 @@
+# v2.0154.2
+- Added init.bat file to initialize the OS for windows people.
+- Added 4 new commands
+  - mdutils
+    - help
+    - export
+    - exit
+- Added Disk file system (aka MintDisk).
+
 # v2.2001.1
 - Added init.sh file to initialize the OS
 
