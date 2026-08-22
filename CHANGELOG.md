@@ -1,3 +1,10 @@
+# v2.2000
+- Added two commands:
+  - mcp
+  - pyexec
+- Added Mint Control Panel (or MCP for short) made with Tkinter.
+- New utility file for the MCP.
+
 # v2.0154.2
 - Added init.bat file to initialize the OS for windows people.
 - Added 4 new commands
